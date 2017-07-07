@@ -1,0 +1,15 @@
+{
+  "name": "json-api-demo",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "body-parser": "~1.17.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "express-session": "^1.15.3",
+    "mongoose": "^4.10.8",
+    "mustache-express": "^1.2.5"
+  }
+}
